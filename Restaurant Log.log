@@ -1,0 +1,25 @@
+randomForest 4.6-14
+Type rfNews() to see new features/changes/bug fixes.
+
+
+Attaching package: ‘dplyr’
+
+
+The following object is masked from ‘package:randomForest’:
+
+    combine
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+[1] 135  43
+[1] 100135     43
+
+ Date[1:100135], format: 
+"1999-07-17" "2008-02-14" "2013-03-09" "2012-02-02" "2009-05-09" ...
